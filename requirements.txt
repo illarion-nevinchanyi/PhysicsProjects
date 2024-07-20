@@ -1,0 +1,5 @@
+numpy==1.21.2
+matplotlib==3.4.3
+black==21.9b0
+pylint==2.11.1
+scipy~=1.10.1
